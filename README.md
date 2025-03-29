@@ -28,16 +28,15 @@
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
-<table align="center">
-<tr border="none">
+  <tr>
+    <td>
+      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cubing14&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    </td>
+    <td>
+      <img src="https://media.tenor.com/ZDi-aKGqvG0AAAAj/cat-bailarin.gif" width="250"/>
+    </td>
+  </tr>
 
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Cubing14&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
 <!--- stats (end) -->
 </p>  
 <!--- stats (end) -->
@@ -72,7 +71,7 @@
 
 <!--profile visit count-->
 <div align="center">
-[![](https://visitcount.itsvg.in/api?id=TuUsuarioGitHub&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Cubing14&icon=3&color=6)](https://visitcount.itsvg.in)
 </div>
 
 <!--horizontal divider(gradiant)-->
