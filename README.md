@@ -5,7 +5,7 @@
 # Hola, soy Yaser Rondón
 
 ### Estudiante de Ingeniería de Sistemas e Ingeniería Industrial (8vo Semestre)
-*Enfocado en la optimización de procesos y el análisis de datos.*
+*Enfocado en la optimización de procesos y el análisis de datos*
 
 <br>
 
@@ -29,8 +29,8 @@ Actualmente busco aplicar mis conocimientos en entornos profesionales de aprendi
 <br>
 <br>
 
-### Estadísticas de actividad
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cubing14&theme=dark&hide_border=false&include_all_commits=true&layout=compact" alt="Top Langs" />
+### Actividad en GitHub
+<img src="https://github-readme-stats.vercel.app/api?username=Cubing14&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de Yaser" />
 
 ---
 
