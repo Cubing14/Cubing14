@@ -16,7 +16,7 @@
 ### Perfil profesional
 Estudiante de doble titulación en la Universidad de Ibagué. Enfocado en la **Gobernanza de Datos**, 
 el diseño de flujos de información y la mejora de procesos mediante tecnología. 
-Interesado en programas de formación profesional (Semilleros) para el desarrollo de soluciones técnicas.
+Interesado en programas de formación profesional para el desarrollo de soluciones técnicas.
 
 ---
 
