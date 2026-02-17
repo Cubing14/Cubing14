@@ -5,7 +5,7 @@
 # Hola, soy Yaser Rondón
 
 ### Estudiante de Ingeniería de Sistemas e Ingeniería Industrial (8vo Semestre)
-*Enfocado en la optimización de procesos y el análisis de datos*
+*Intersección entre la optimización de procesos y el análisis de datos*
 
 <br>
 
@@ -14,9 +14,18 @@
 ---
 
 ### Perfil profesional
-Estudiante de doble titulación en la Universidad de Ibagué. Me interesa la Gobernanza de Datos, 
-la eficiencia en los procesos organizacionales y el desarrollo de software. 
-Actualmente busco aplicar mis conocimientos en entornos profesionales de aprendizaje.
+Estudiante de doble titulación en la Universidad de Ibagué. Enfocado en la **Gobernanza de Datos**, 
+el diseño de flujos de información y la mejora de procesos mediante tecnología. 
+Interesado en programas de formación profesional (Semilleros) para el desarrollo de soluciones técnicas.
+
+---
+
+### Áreas de interés y formación
+| Ingeniería de Sistemas | Ingeniería Industrial |
+| :--- | :--- |
+| Gestión de Bases de Datos | Modelado de Procesos (BPMN) |
+| Lógica de Programación | Optimización de Operaciones |
+| Arquitectura de Software | Gestión de Calidad |
 
 ---
 
