@@ -29,9 +29,6 @@ Actualmente busco aplicar mis conocimientos en entornos profesionales de aprendi
 <br>
 <br>
 
-### Actividad en GitHub
-<img src="https://github-readme-stats.vercel.app/api?username=Cubing14&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de Yaser" />
-
 ---
 
 ### Contacto profesional
