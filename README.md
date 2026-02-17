@@ -1,73 +1,55 @@
-<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, Soy Yaser</h1></summary>
-  </ul>
+<div align="center">
+  <h1>Hola 👋, Soy Yaser Rondón</h1>
+  <p><b>Estudiante de Ingeniería de Sistemas 💻 & Ingeniería Industrial ⚙️</b></p>
+  <p><i>Enfocado en la intersección entre la optimización de procesos y el desarrollo de soluciones tecnológicas.</i></p>
 </div>
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Apasionado por el desarrollo web y los videojuegos</h2></summary>
-  </ul>
-</div>
+### 🚀 Sobre mí
+- 🎓 Actualmente cursando **8vo semestre** de doble titulación en la Universidad de Ibagué.
+- 📊 Interesado en el **Gobierno de Datos**, análisis de procesos y arquitectura de software.
+- 💡 Me apasiona resolver problemas complejos mediante el desarrollo web y la lógica de programación.
+- 🌱 Siempre aprendiendo nuevas tecnologías para mejorar la eficiencia organizacional.
 
-<!--Intro start-->
-- 🎓 Estudiante de **Ingeniería Industrial** e **Ingeniería en Sistemas**
-
-- 💻 Me apasiona el **desarrollo web** y **desarrollo de videojuegos**
-
-- 🚀 Siempre explorando nuevas tecnologías y creando proyectos interesantes
-
-- 📫 Contáctame en **julianrondon14@gmail.com**
-<!--Intro end-->
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-  <tr>
-    <td>
-      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cubing14&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-    </td>
-    <td>
-      <img src="https://media.tenor.com/ZDi-aKGqvG0AAAAj/cat-bailarin.gif" width="250"/>
-    </td>
-  </tr>
-
-<!--- stats (end) -->
-</p>  
-<!--- stats (end) -->
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que manejo 👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
+<div align="center">
+  <h3>Tecnologías y Herramientas 👨🏻‍💻</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,androidstudio,github,unity&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,github,androidstudio,unity,py,mysql&perline=8" />
   </a>
-</p>
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Conéctate conmigo 🤝</h2></summary>
-  </ul>
+  <p><i>Manejo de herramientas para desarrollo frontend, gestión de bases de datos y modelado de sistemas.</i></p>
 </div>
 
-<!--icons and links-->
+<br>
+
 <p align="center">
-<a href="https://www.linkedin.com/in/TuPerfilLinkedin/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/TuUsuarioTwitter" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
-<a href="https://discordapp.com/users/TuUsuarioDiscord" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  <table align="center">
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cubing14&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://media.tenor.com/ZDi-aKGqvG0AAAAj/cat-bailarin.gif" width="150"/>
+        <br>
+        <b>"Compromiso y curiosidad técnica"</b>
+      </td>
+    </tr>
+  </table>
 </p>
 
-<!--horizontal divider(gradiant)-->
+<div align="center">
+  <h3>Conéctate conmigo 🤝</h3>
+  <a href="mailto:julianrondon14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/TuPerfilLinkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://discordapp.com/users/TuUsuarioDiscord">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
